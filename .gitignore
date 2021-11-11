@@ -1,0 +1,8 @@
+.terraform
+.terraform.d
+.terraform*
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+go.mod
+go.sum
