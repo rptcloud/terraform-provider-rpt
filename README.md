@@ -1,2 +1,2 @@
 # terraform-provider-rpt
-provider for rpt hotel app
+terraform provider for the RPT demo hotel app (on Gitlab)
