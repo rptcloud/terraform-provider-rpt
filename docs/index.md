@@ -17,6 +17,6 @@ description: |-
 
 ### Optional
 
-- **endpoint** (String)
+- **endpoint** (String) This is required if you want to use the provider. It is optional here because you can set an environment variable called endpoint instead.
 - **password** (String, Sensitive)
 - **username** (String)
