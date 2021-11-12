@@ -3,7 +3,7 @@
 page_title: "rpt_hotels Data Source - terraform-provider-rpt"
 subcategory: ""
 description: |-
-  
+  This data source can get data from a hotel in the RPT hotel demo application by providing a hotel's id as the hotel_num input attribute. In order to use this, you must set the endpoint variable in the provider configuration. More information is available in the project repos README.
 ---
 
 # rpt_hotels (Data Source)

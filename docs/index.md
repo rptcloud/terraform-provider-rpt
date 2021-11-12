@@ -3,7 +3,7 @@
 page_title: "rpt Provider"
 subcategory: ""
 description: |-
-  
+    This provider allows you to manipulate hotel resources on the RPT hotel demo application. In order to use this, you must set the endpoint variable in the provider configuration. More information is available in the project repos README.
 ---
 
 # rpt Provider

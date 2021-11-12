@@ -3,7 +3,7 @@
 page_title: "rpt_hotel Resource - terraform-provider-rpt"
 subcategory: ""
 description: |-
-  
+    This resource allows you to create hotels on the RPT hotel demo application. In order to use this, you must set the endpoint variable in the provider configuration. More information is available in the project repos README.
 ---
 
 # rpt_hotel (Resource)
